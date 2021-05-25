@@ -459,7 +459,7 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
 }
 @media screen and (max-width:860px){
     .servicesection{
-        height: 400vh;
+        height: 500vh;
     }
     .servicesection h1{
         height:30vh;
