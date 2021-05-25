@@ -596,12 +596,14 @@ background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, F
 @media screen and (max-width:1000px){
     .footerwriting{
         grid-template-columns: 1fr 1fr;
+        margin:0;
     }
     .commonfooter{
         width: 100%;
     }
     .copywrites{
         flex-direction: column;
+        margin:4vh 12vw;
     }
     .finalc{
         width: 100%;
